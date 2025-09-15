@@ -3,7 +3,7 @@
 graphics::graphics() {
 
     
-    if (!font.loadFromFile("C:\\Users\\alber\\Desktop\\Projekty\\sudoku\\sudoku\\assets\\arial.ttf")) {
+    if (!font.loadFromFile("assets\\arial.ttf")) {
         std::cout << "Failed to load font" << std::endl;
     }
     else {
@@ -14,7 +14,7 @@ graphics::graphics() {
     text.setCharacterSize(30);
     text.setFillColor(sf::Color::Black);
     //ladowanie tla
-    if (!backgroundTexture.loadFromFile("C:\\Users\\alber\\Desktop\\Projekty\\sudoku\\sudoku\\assets\\background.png")) {
+    if (!backgroundTexture.loadFromFile("assets\\background.png")) {
         std::cout << "Failed to load background" << std::endl;
     }
     else {
