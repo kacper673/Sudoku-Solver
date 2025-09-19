@@ -32,6 +32,8 @@ It allows the user to generate random Sudoku puzzles, verify their uniqueness, a
 
 ## 📸 Example Screenshots
 
+![Sudoku2025-09-1913-55-51-ezgif com-speed](https://github.com/user-attachments/assets/43d2322f-738d-4ef2-a4f9-8cff77364c4a)
+
 <img width="1494" height="1025" alt="Zrzut ekranu 2025-09-15 224321" src="https://github.com/user-attachments/assets/bdde8b46-3aff-4498-9b47-832872eaa9cd" />
 
 <img width="1499" height="1033" alt="Zrzut ekranu 2025-09-15 224124" src="https://github.com/user-attachments/assets/c4003614-55b7-4628-900d-f9e17f9a4bd2" />
